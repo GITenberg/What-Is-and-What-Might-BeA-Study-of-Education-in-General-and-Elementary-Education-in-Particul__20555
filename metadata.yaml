@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9381
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20555#What-Is-and-What-Might-BeA-Study-of-Education-in-General-and-Elementary-Education-in-Particul_
 gutenberg_issued: '2007-02-10'
 gutenberg_type: Text
 identifiers:
